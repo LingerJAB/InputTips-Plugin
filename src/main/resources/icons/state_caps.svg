@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="11.049 11 18 18" width="18px" height="18px"
+>
+    <path style="--darkreader-inline-stroke: var(--darkreader-text-fdfff8, #ffffff); --darkreader-inline-fill: var(--darkreader-text-ffeeeb, #ffffff); fill: rgb(255, 97, 97); stroke: rgb(255, 97, 97); visibility: hidden;"
+          d="M 17.435 12.386 H 27.664 A 0 0 0 0 1 27.664 12.386 V 22.615 A 5 5 0 0 1 22.664 27.615 H 12.435 A 0 0 0 0 1 12.435 27.615 V 17.386 A 5 5 0 0 1 17.435 12.386 Z"
+          id="rect-1">
+        <title>中心 矩形</title>
+    </path>
+    <path style="--darkreader-inline-stroke: var(--darkreader-text-fdfff8, #ffffff); --darkreader-inline-fill: var(--darkreader-text-ffeeeb, #ffffff); fill: rgb(248, 255, 111); stroke: rgb(248, 255, 111);"
+          d="M 17.435 12.386 H 27.664 A 0 0 0 0 1 27.664 12.386 V 22.615 A 5 5 0 0 1 22.664 27.615 H 12.435 A 0 0 0 0 1 12.435 27.615 V 17.386 A 5 5 0 0 1 17.435 12.386 Z"
+          id="object-0">
+        <title>中心 矩形</title>
+    </path>
+    <path d="M 24.496 21.573 L 20.651 21.573 L 20.651 25.234 L 19.873 25.234 L 19.873 21.573 L 16.035 21.573 L 16.035 17.303 L 19.857 17.303 L 19.857 14.859 L 20.651 14.859 L 20.651 17.291 L 24.496 17.291 L 24.496 21.573 Z M 23.717 20.829 L 23.717 18.024 L 20.651 18.024 L 20.651 20.829 L 23.717 20.829 Z M 19.857 20.842 L 19.873 18.024 L 16.814 18.024 L 16.814 20.842 L 19.857 20.842 Z"
+          style="fill: rgb(0, 0, 0); text-wrap-mode: nowrap; fill-rule: nonzero; stroke: rgb(0, 0, 0); stroke-width: 0.5px; --darkreader-inline-fill: var(--darkreader-text-000000, #ffffff); --darkreader-inline-stroke: var(--darkreader-text-000000, #ffffff); visibility: hidden;"
+    >
+        <title>文本路径 中</title>
+    </path>
+    <path d="M 14.959 25.268 L 19.055 14.602 L 20.576 14.602 L 24.941 25.268 L 23.333 25.268 L 22.089 22.038 L 17.629 22.038 L 16.458 25.268 Z M 18.037 20.888 L 21.653 20.888 L 20.539 17.934 Q 20.03 16.588 19.783 15.723 Q 19.579 16.749 19.208 17.76 Z"
+          style="text-wrap-mode: nowrap; stroke: rgb(0, 0, 0); stroke-width: 0.5px;"/>
+</svg>

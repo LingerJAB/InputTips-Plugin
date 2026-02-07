@@ -1,0 +1,31 @@
+<!-- Plugin Configuration File: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
+<idea-plugin>
+    <id>io.github.lingerjab.InputTips</id>
+
+    <name>Input Tips</name>
+
+    <vendor url="https://github.com/LingerJAB">LingerJAB</vendor>
+
+    <description>
+        <![CDATA[
+          Input Tips is a plugin for IntelliJ IDEA on Windows.
+          It provides a status bar widget to show the input tips.<br>
+          用于在IDEA状态栏显示输入法语言状态提示。<b>仅限 Windows</b>
+         ]]>
+    </description>
+
+    <change-notes>
+        None.
+    </change-notes>
+
+    <version>1.0.0</version>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <statusBarWidgetFactory
+                implementation="io.github.lingerjab.inputtips.statusbar.InputStatusWidgetFactory"
+                id="inputTipsStatusBarWidget"
+        />
+    </extensions>
+</idea-plugin>

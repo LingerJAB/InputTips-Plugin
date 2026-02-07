@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"
+>
+    <title>Input Tips Logo</title>
+    <path style="stroke: rgb(255, 255, 255); --darkreader-inline-stroke: var(--darkreader-text-ffffff, #ffffff); --darkreader-inline-fill: var(--darkreader-text-ebf1ff, #ffffff); fill: rgb(179, 202, 255);"
+          d="M 9 4 H 20 A 0 0 0 0 1 20 4 V 20 A 0 0 0 0 1 20 20 H 4 A 0 0 0 0 1 4 20 V 9 A 5 5 0 0 1 9 4 Z"
+    >
+        <title>左上 矩形</title>
+    </path>
+    <path style="stroke: rgb(255, 255, 255); --darkreader-inline-stroke: var(--darkreader-text-ffffff, #ffffff); --darkreader-inline-fill: var(--darkreader-text-feffeb, #ffffff); fill: rgb(251, 255, 173);"
+          d="M 20 20 H 36 A 0 0 0 0 1 36 20 V 31 A 5 5 0 0 1 31 36 H 20 A 0 0 0 0 1 20 36 V 20 A 0 0 0 0 1 20 20 Z"
+    >
+        <title>右下 矩形</title>
+    </path>
+    <text style="fill: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 28px; white-space: pre; --darkreader-inline-fill: var(--darkreader-text-000000, #ffffff);"
+          transform="matrix(0.531563, 0, 0, 0.531563, 20.559653, 26.758694)">
+        <title>文本 A</title>
+        <tspan x="5.793" y="12.01">A</tspan>
+        <tspan x="5.793" dy="1em">​</tspan>
+    </text>
+    <text style="fill: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 15px; white-space: pre; --darkreader-inline-fill: var(--darkreader-text-000000, #ffffff);"
+          x="6.257" y="17.513"><title>文本 E</title>E
+    </text>
+    <path style="stroke: rgb(253, 255, 248); --darkreader-inline-stroke: var(--darkreader-text-fdfff8, #ffffff); --darkreader-inline-fill: var(--darkreader-text-ffeeeb, #ffffff); fill: rgb(255, 183, 170);"
+          d="M 16.049 11 H 29.049 A 0 0 0 0 1 29.049 11 V 24 A 5 5 0 0 1 24.049 29 H 11.049 A 0 0 0 0 1 11.049 29 V 16 A 5 5 0 0 1 16.049 11 Z"
+    >
+        <title>中心 矩形</title>
+    </path>
+    <path d="M 25.305 21.859 L 20.761 21.859 L 20.761 26.186 L 19.841 26.186 L 19.841 21.859 L 15.305 21.859 L 15.305 16.812 L 19.822 16.812 L 19.822 13.924 L 20.761 13.924 L 20.761 16.798 L 25.305 16.798 L 25.305 21.859 Z M 24.385 20.98 L 24.385 17.664 L 20.761 17.664 L 20.761 20.98 L 24.385 20.98 Z M 19.822 20.995 L 19.841 17.664 L 16.225 17.664 L 16.225 20.995 L 19.822 20.995 Z"
+          style="fill: rgb(0, 0, 0); text-wrap-mode: nowrap; fill-rule: nonzero; stroke: rgb(0, 0, 0); stroke-width: 0.5px; --darkreader-inline-fill: var(--darkreader-text-000000, #ffffff); --darkreader-inline-stroke: var(--darkreader-text-000000, #ffffff);"
+    >
+        <title>文本路径 中</title>
+    </path>
+    <path style="fill: rgb(0, 0, 0); text-wrap-mode: nowrap; --darkreader-inline-fill: var(--darkreader-text-000000, #ffffff);"
+    />
+</svg>
